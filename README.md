@@ -1,2 +1,1 @@
-# awesomeweb
-Created with CodeSandbox
+# my-awesome-website
