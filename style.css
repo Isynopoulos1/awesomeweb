@@ -35,3 +35,15 @@ h1 {
   width: 600px;
   padding: 50px;
 }
+.works {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.works img {
+  width: 100%;
+}
+
+.works figure {
+  width: 45%;
+  margin-bottom: 50px;
+}
